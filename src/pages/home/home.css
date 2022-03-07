@@ -1,0 +1,14 @@
+.homeContainer{
+    display: flex;
+    width:100%;
+}
+.sidebar{
+flex:2;
+height: calc(100vh - 50px)
+}
+.feed{
+flex:5
+}
+.rightbar{
+flex:2
+}

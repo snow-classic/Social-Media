@@ -1,0 +1,14 @@
+.profileContainer{
+    display: flex;
+    width:100%;
+}
+.sidebar{
+flex:2;
+height: calc(100vh - 50px)
+}
+.profile{
+flex:5
+}
+.rightbar{
+flex:2
+}
